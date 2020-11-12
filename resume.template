@@ -104,6 +104,11 @@
 				{{#if company}}
 					<h3 class="name">{{company}}</h3>
 				{{/if}}
+				{{#if location}}
+				<span class="location">
+					{{location}}
+				</span>
+				{{/if}}
 			</header>
 			{{#if position}}
 			<span class="position">
