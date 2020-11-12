@@ -105,6 +105,7 @@ section h2 {
 .item .endDate,
 .item .location {
 	color: #6B6B6B;
+	font-size: 90%;
 }
 
 .item .highlights {
